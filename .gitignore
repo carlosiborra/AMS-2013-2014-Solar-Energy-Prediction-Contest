@@ -1,2 +1,6 @@
-# ignore the env directory and its contents
+# Ignore the .vscode directory and its contents
+.vscode/
+.vscode/*
+
+# Ignore the env directory and its contents
 env/

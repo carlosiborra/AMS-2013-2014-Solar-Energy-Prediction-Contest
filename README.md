@@ -8,7 +8,9 @@ Grado en Ingeniería Informática, Curso 2022/2023. Universidad Carlos III de Ma
   - [0. Table of Contents](#0-table-of-contents)
   - [1. Authors](#1-authors)
   - [2. Remarks](#2-remarks)
+    - [In order to open the conda environment, you must run the following command](#in-order-to-open-the-conda-environment-you-must-run-the-following-command)
   - [3. Resources](#3-resources)
+  - [4. Requirements](#4-requirements)
 
 ## 1. Authors
 
@@ -16,6 +18,12 @@ Grado en Ingeniería Informática, Curso 2022/2023. Universidad Carlos III de Ma
 - Alejandra Galán Arrospide - 100451273
 
 ## 2. Remarks
+
+### In order to open the conda environment, you must run the following command
+
+```
+conda activate "path to the environment"
+```
 
 - EDA (Exploratory Data Analysis) is a crucial step in the data science process. It is the process of analyzing the data to summarize their main characteristics, often with visual methods. It is used to see what the data can tell us beyond the formal modeling or hypothesis testing task. Link in resources.
 - **We need to focus on the correlation between the target and input variables.** We can use a correlation matrix to see the correlation between the variables. We can also use a heatmap to visualize the correlation matrix. **This will be useful to make the reduction of the dimensionality of the data** (see below PCAs).
@@ -35,3 +43,11 @@ Grado en Ingeniería Informática, Curso 2022/2023. Universidad Carlos III de Ma
 - [A Simple Tutorial on Exploratory Data Analysis](https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis/notebook)
 
 - [Using the missingno Python library to Identify and Visualise Missing Data](https://towardsdatascience.com/using-the-missingno-python-library-to-identify-and-visualise-missing-data-prior-to-machine-learning-34c8c5b5f009)
+
+## 4. Requirements
+
+-pandas
+-numpy
+-matplotlib.pyplot
+-missingno
+-seaborn

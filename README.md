@@ -49,5 +49,5 @@ conda activate "path to the environment"
 -pandas
 -numpy
 -matplotlib.pyplot
--missingno
+-missingno: needs to be used within the requirements, it can throw errors easily with any other versions of the libraries
 -seaborn

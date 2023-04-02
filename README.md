@@ -8,7 +8,7 @@ Grado en Ingeniería Informática, Curso 2022/2023. Universidad Carlos III de Ma
   - [0. Table of Contents](#0-table-of-contents)
   - [1. Authors](#1-authors)
   - [2. Requirements](#2-requirements)
-    - [Recommended](#recommended)
+    - [Recommended - Notice](#recommended---notice)
   - [3. Remarks](#3-remarks)
     - [In order to open the conda environment, you must run the following command](#in-order-to-open-the-conda-environment-you-must-run-the-following-command)
   - [4. Resources](#4-resources)
@@ -27,8 +27,12 @@ Grado en Ingeniería Informática, Curso 2022/2023. Universidad Carlos III de Ma
 - seaborn
 - sklearn
 
-### Recommended
+### Recommended - Notice
 
+- **Important**, if missigno library is throwing the following error (ValueError: keyword grid_b is not recognized), please change in missigno.py (lib file):<br>
+    from grid(b=False) to grid(visible=False). This error is due to the version of matplotlib in the conda environment.
+- jinja2=3.0.3
+- nbconvert=6.4.4
 - We recommend using the **Better Comments** extension for VSCode to see the comments in a more readable way.
 
 ## 3. Remarks

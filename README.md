@@ -61,3 +61,8 @@ conda activate "path to the environment"
 - [A Simple Tutorial on Exploratory Data Analysis](https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis/notebook)
 
 - [Using the missingno Python library to Identify and Visualise Missing Data](https://towardsdatascience.com/using-the-missingno-python-library-to-identify-and-visualise-missing-data-prior-to-machine-learning-34c8c5b5f009)
+
+- [] (<https://aulaglobal.uc3m.es/mod/resource/view.php?id=4378737>)
+- [] (<https://aulaglobal.uc3m.es/mod/resource/view.php?id=4378744>)
+- [] (https://aulaglobal.uc3m.es/mod/resource/view.php?id=4386772)
+- 

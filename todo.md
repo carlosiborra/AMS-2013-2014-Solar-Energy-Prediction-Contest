@@ -24,17 +24,24 @@
 
 ## Por hacer / completar
 
-- Comentar sobre el skeewness y kurtosis de los datos de entrada, por encima
+- <mark>Comentar sobre el skeewness y kurtosis de los datos de entrada, por encima</mark>
 - Repasar todos los modelos
 - Revertir el comportamiento para no calcular test, o preguntar si se puede calcular pero no usarlo para tomar decisiones
+- Fijarnos en el NMAE para tomar decisiones de train - predice mas o menos bien cual es el mejor -> usarlo para decidir!!!!
+- Argumentar el porq se ha usado nMAE como criterion
+- Explicar porq se usara el criterion para seleccionar el mejor modelo (al hacerse con validacion)
+- Explicar lo de sobreajuste y como se sabe
+- Explicacion de que modelo se escoge
 
 ## A preguntar
 
 - Escalado y eliminar param. tanto en por defecto como no
+- Seleccion de param, cuando y porq no antes de los sencillos
 - Hacer test a parte de train para comparar valores
 - Porq con ajuste de hp escalado y tal funciona tan lento
 - Porq SVM's por omision es una linea recta
 - Hacer conclusiones y todo eso en español
+- Accuracy y F1 ?? NO?
 - Si no se puede comprobar los resultados de test, ¿cómo se puede comprobar que se ha hecho bien?, que decisiones puedo tomar en los apartados 4-7, si no poseo esa información
 - Que hago para dividir los datos y eliminar variables
 - El escalado robusto está bien?
@@ -42,3 +49,6 @@
 - ¿Resultados OK?
 - GRadient Boosting lo añadimos o no?
 - No entiendo porq en SVR si lo cambio de 10 a 15 de budget tarda demasiado
+- Se puede utilizar test en el apartado 8 para comparar todos?
+- En randForest puedo poner solo log2 ya que es el que mejor funciona?
+- Porq NMAE y MAE son distintos, bastatne, y al mae de train detecta el sobreeajuste

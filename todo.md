@@ -32,6 +32,9 @@
 - Explicar porq se usara el criterion para seleccionar el mejor modelo (al hacerse con validacion)
 - Explicar lo de sobreajuste y como se sabe
 - Explicacion de que modelo se escoge
+- Entrenar previamente el modelo seleccionado con todos los datos antes de pasarlo a formarto pkl
+- Explicar porq se usa un scatterplot
+- Cambiar tamaño texto de los histogramas con los resultados
 
 ## A preguntar
 
@@ -52,3 +55,4 @@
 - Se puede utilizar test en el apartado 8 para comparar todos?
 - En randForest puedo poner solo log2 ya que es el que mejor funciona?
 - Porq NMAE y MAE son distintos, bastatne, y al mae de train detecta el sobreeajuste
+- Lo mismo se debe subir el numero de budget para que sea igual en todos y el tiempo sea comparable, o dividir el tiempo entre el número de folds

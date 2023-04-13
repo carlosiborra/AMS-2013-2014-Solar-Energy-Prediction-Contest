@@ -35,13 +35,13 @@
 
 ## A preguntar
 
-- Escalado y eliminar param. tanto en por defecto como no
-- Seleccion de param, cuando y porq no antes de los sencillos
-- Hacer test a parte de train para comparar valores
-- Porq con ajuste de hp escalado y tal funciona tan lento
-- Porq SVM's por omision es una linea recta
-- Hacer conclusiones y todo eso en español
-- Si no se puede comprobar los resultados de test, ¿cómo se puede comprobar que se ha hecho bien?, que decisiones puedo tomar en los apartados 4-7, si no poseo esa información
+<!-- - Escalado y eliminar param. tanto en por defecto como no -->
+<!-- - Seleccion de param, cuando y porq no antes de los sencillos -->
+<!-- - Hacer test a parte de train para comparar valores -->
+<!-- - Porq con ajuste de hp escalado y tal funciona tan lento -->
+- Porq SVM's por omision es una linea recta -> HAY QUE ESCALAR
+- Hacer conclusiones y todo eso en español -> REPASAR EL HECHO DE QUE SEA UNA LINEA RECTA
+<!-- - Si no se puede comprobar los resultados de test, ¿cómo se puede comprobar que se ha hecho bien?, que decisiones puedo tomar en los apartados 4-7, si no poseo esa información -->
 - Que hago para dividir los datos y eliminar variables
 - El escalado robusto está bien?
 - ¿Qué más podríamos probar/hacer de los modelos?

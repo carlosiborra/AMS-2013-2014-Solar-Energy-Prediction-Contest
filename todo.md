@@ -39,10 +39,10 @@
 <!-- - Seleccion de param, cuando y porq no antes de los sencillos -->
 <!-- - Hacer test a parte de train para comparar valores -->
 <!-- - Porq con ajuste de hp escalado y tal funciona tan lento -->
-- Porq SVM's por omision es una linea recta -> HAY QUE ESCALAR
-- Hacer conclusiones y todo eso en español -> REPASAR EL HECHO DE QUE SEA UNA LINEA RECTA
+<!-- - Porq SVM's por omision es una linea recta -> HAY QUE ESCALAR
+- Hacer conclusiones y todo eso en español -> REPASAR EL HECHO DE QUE SEA UNA LINEA RECTA -->
 <!-- - Si no se puede comprobar los resultados de test, ¿cómo se puede comprobar que se ha hecho bien?, que decisiones puedo tomar en los apartados 4-7, si no poseo esa información -->
-- Que hago para dividir los datos y eliminar variables
+<!-- - Que hago para dividir los datos y eliminar variables
 - El escalado robusto está bien?
 - ¿Qué más podríamos probar/hacer de los modelos?
 - ¿Resultados OK?
@@ -52,4 +52,4 @@
 - En randForest puedo poner solo log2 ya que es el que mejor funciona?
 - Porq NMAE y MAE son distintos, bastatne, y al mae de train detecta el sobreeajuste
 - Lo mismo se debe subir el numero de budget para que sea igual en todos y el tiempo sea comparable, o dividir el tiempo entre el número de folds
-- El modelo final, tras la seleccion de parametros, hay que seleccionar los atributos?
+- El modelo final, tras la seleccion de parametros, hay que seleccionar los atributos? -->
